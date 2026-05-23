@@ -4,8 +4,11 @@
 [![Face-API.js](https://img.shields.io/badge/Face--API.js-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/vladmandic/face-api)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[![Live Demo](https://img.shields.io/badge/🚀%20在线体验-xiaoqintao.com-brightgreen)](http://xiaoqintao.com)
 
 > 基于深度学习的人脸表情实时识别系统，支持浏览器端本地模型训练与推理
+
+🚀 **[在线体验](http://xiaoqintao.com)** - 无需安装，打开浏览器即可体验
 
 ## 项目简介
 
